@@ -1,0 +1,26 @@
+footer {
+    background: var(--rich-black-fogra-30);
+    padding: 80px var(--px) 40px;
+  }
+  
+  .footer-content {
+    display:         flex;
+    justify-content: flex-start;
+    align-items:    flex-start;
+    border-bottom: 1px solid var(--oxford-blue-50);
+    padding-bottom: 80px;
+  }
+  
+  .footer-brand {
+    max-width: 250px;
+    margin-left: 518px;
+  }
+  
+  
+  .slogan {
+    font-size: var(--fs-sm);
+    line-height: 20px;
+    /*margin-left: 30px;*/
+    margin-bottom: 20px;
+  }
+  
