@@ -111,7 +111,7 @@ header, nav { background: var(--rich-black-fogra-29); }
 
 nav { margin-right: 200px; }
 
-.navbar-nav { display: flex;}
+.navbar-nav { display:flex;}
 .navbar-brand{
   margin-left:185px; /*
     TO BRING LOGO TO RIGHT CHANGE THE MARGIN lEFT TO MARGIN RIGHT DONT CHANGE THE VALUE
